@@ -1,0 +1,34 @@
+List of nine number : 
+1
+a = 0 b = 0 value of j is 1
+4
+a = 0 b = 1 value of j is 4
+7
+a = 0 b = 2 value of j is 7
+2
+a = 1 b = 0 value of j is 2
+5
+a = 1 b = 1 value of j is 5
+8
+a = 1 b = 2 value of j is 8
+3
+a = 2 b = 0 value of j is 3
+6
+a = 2 b = 1 value of j is 6
+9
+a = 2 b = 2 value of j is 9
+1
+4
+7
+The sum is 12
+The total sum is 12
+2
+5
+8
+The sum is 15
+The total sum is 27
+3
+6
+9
+The sum is 18
+The total sum is 45
