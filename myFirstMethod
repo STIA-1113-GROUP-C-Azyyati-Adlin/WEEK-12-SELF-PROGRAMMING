@@ -1,0 +1,45 @@
+package ProgrammingInClass;
+
+public class myFirstMethod {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i =2;
+		String name = "Azyyati Adlin";
+		
+		System.out.println("I have a message for you");
+		showMessage();
+		System.out.println("That's all folks!");
+		showMessage2();
+		System.out.println("That's all buddie!");
+		showMessage3(i);
+		showMessage4(i, name);
+		showMessage5(21, "Student");
+		
+	} //main method
+	
+	public static void showMessage() {
+		System.out.println("Hello World");
+	} //showMessage method
+	
+	public static void showMessage2() {
+		System.out.println("Hello Malaysia");
+	} //showMessage2 method
+	
+	public static void showMessage3(int j) {
+		System.out.println("The number is " + j);
+	}
+	
+	public static void showMessage4(int k, String n) {
+		int m = 4;
+		String s = "Kota Bharu";
+		
+		System.out.println("The number is " + k);
+		System.out.println("My name is " + n + " from " + s);
+		int sum = k + m;
+		System.out.println("Sum is " + sum);
+	}
+	public static void showMessage5(int age, String p) {
+		System.out.println("My age is " + age + " and I'm still a " + p);
+	}
+}
